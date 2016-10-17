@@ -1,4 +1,4 @@
-# whoami
+# WhoAmI
 Identificación con información personal.
 
 En la época de las PDA's, era muy común tener los datos personales registrados en una aplicación que aparecía siempre al inicio o en la pantalla de bloqueo/espera.
